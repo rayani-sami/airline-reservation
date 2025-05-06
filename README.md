@@ -12,12 +12,12 @@
  - Airlins 
  <img src="./public/assets/images/demos/airlines.jpg" alt="airlines" >
 
- -   [Live Preview](http://laravel-airline.herokuapp.com/public/)
+
 
 
 ## Installation
 
-1. clone the project `git clone https://github.com/abdulbasit-dev/laravel-airline-reservation-system.git`
+1. clone the project `git clone `
 2. create a file with name .env `touch .env`
 3. copy content of .env.example to .env
 4. set up your database connection in .env
@@ -32,13 +32,5 @@
     `cntrl UserController --model=User -r` for normal controller <br/>
     `cntrl UserController --model=User --api` for normal api controller
 
-## Laravel Artisan Command Shourtcut In Git Bash
-
-if u are using windows go to this path "C:\Program Files\Git\etc", in there open "bash.bashrc" file 
-copy content of this gist
-[abdulbasit-dev/bash.bashrc](https://gist.github.com/abdulbasit-dev/d13ff13fb4700995de97a4b88a626753)
-and put it into your "C:\Program Files\Git\etc\bash.bashrc" file 
-
-update.fix
 
 
